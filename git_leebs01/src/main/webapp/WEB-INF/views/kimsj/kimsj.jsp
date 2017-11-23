@@ -7,7 +7,7 @@
 <title>kimsj jsp파일</title>
 </head>
 <body>
-<h1>kimsj jsp 작업 파일입니다.</h1>
+<h1>kimsj jsp ㅁㄴㅇㄹ작업 파일입니다.</h1>
 
 </body>
 </html>
